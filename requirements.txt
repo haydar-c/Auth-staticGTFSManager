@@ -6,3 +6,4 @@ tornado==5.1.1
 pycryptodomex==3.6.6
 tables==3.4.4
 requests==2.21.0
+tornado-http-auth==1.1.1
