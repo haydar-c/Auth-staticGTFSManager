@@ -1,3 +1,15 @@
+# Quick Start
+
+$git clone https://github.com/haydar-c/Auth-staticGTFSManager.git
+$cd Auth-staticGTFSmanager
+$pip install -r requirements.txt
+$python GTFSManager.py
+
+
+
+
+
+
 # static-GTFS-manager
 ![GTFS Manager logo](https://github.com/WRI-Cities/static-GTFS-manager/raw/master/extra_files/GTFS.png)  
 
