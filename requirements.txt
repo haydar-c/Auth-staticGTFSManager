@@ -4,6 +4,6 @@ tinydb==4.5.2
 pandas==0.24.2
 tornado==5.1.1
 pycryptodomex==3.6.6
-tables==3.4.4
+tables==3.7.0
 requests==2.21.0
 tornado-http-auth==1.1.1
