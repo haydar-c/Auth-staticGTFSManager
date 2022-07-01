@@ -1,9 +1,12 @@
 # Quick Start
 
-$git clone https://github.com/haydar-c/Auth-staticGTFSManager.git.
-$cd Auth-staticGTFSmanager.
-$pip install -r requirements.txt.
-$python GTFSManager.py.
+$git clone https://github.com/haydar-c/Auth-staticGTFSManager.git
+
+$cd Auth-staticGTFSmanager
+
+$pip install -r requirements.txt
+
+$python GTFSManager.py
 
 
 
