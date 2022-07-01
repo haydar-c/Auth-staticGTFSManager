@@ -2,7 +2,7 @@
 
 $git clone https://github.com/haydar-c/Auth-staticGTFSManager.git
 
-$cd Auth-staticGTFSmanager
+$cd Auth-staticGTFSManager
 
 $pip install -r requirements.txt
 
