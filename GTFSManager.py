@@ -1694,7 +1694,7 @@ import random
 if __name__ == "__main__":
     signal.signal(signal.SIGINT, signal_term_handler)
     app = make_app()
-    portnum = random.randint(5000,6000)
+    portnum = 5000
     while True: # loop to increment the port number till we find one that isn't occupied
         try:
             port = int(os.environ.get("PORT", portnum))
